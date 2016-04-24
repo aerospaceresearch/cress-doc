@@ -1,0 +1,14 @@
+Session.vim
+*.swp
+*.swo
+
+*.aux
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.log
+*.nlo
+*.nls
+*.out
+*.toc
